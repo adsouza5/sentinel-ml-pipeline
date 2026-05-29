@@ -2,7 +2,7 @@
 
 End-to-end market signal prediction engine on GCP. Ingests stock data from Twelve Data, computes technical indicators, runs a trained classifier, and serves BULLISH / BEARISH / NEUTRAL signals with confidence scores. Supports both synchronous and async (Pub/Sub) inference paths.
 
-**[Live Demo](https://adsouza5.github.io/portfolio-react/projects/sentinel)**
+**[Live Demo](https://www.iadamdsouza.com/projects/sentinel)**
 
 ## Architecture
 
